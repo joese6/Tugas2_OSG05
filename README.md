@@ -1,6 +1,9 @@
 # Aplikasi Flutter Sederhana (Tugas 2 - OSG05)
 - Menggunakan widget Image, Text, Row, Column, dan Icon dalam satu halaman.
 
+## Update 
+- 7 September 2019 (penambahan widget SingleChildScrollView)
+
 # Screenshot
 [![Screenshot-144.png](https://i.postimg.cc/GhsQZKMk/Screenshot-144.png)](https://postimg.cc/xcnMmvVC)
 
