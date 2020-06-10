@@ -1,4 +1,4 @@
-# Aplikasi Flutter Sederhana (Tugas 2 - OSG05)
+# Aplikasi Flutter Sederhana
 - Menggunakan widget Image, Text, Row, Column, dan Icon dalam satu halaman.
 
 ## Update 
